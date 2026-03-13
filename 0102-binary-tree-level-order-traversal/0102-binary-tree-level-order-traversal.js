@@ -12,28 +12,24 @@
  */
 var levelOrder = function(root) {
     if (!root) return [];
-    const result = [];
+
     const queue = [root];
+    const res = [];
+    console.log(queue);
 
     while (queue.length > 0) {
-        const level = [];
-        const levelSize = queue.length;
-        console.log(levelSize);
-        for (let i = 0; i < levelSize; i++) {
+        const level = queue.length;
+        const levelTemp = [];
+        console.log(level)
+        for (let i = 0; i < level; i++) {
             const node = queue.shift();
-            level.push(node.val);
-
-            if (node.left !== null) {
-                queue.push(node.left);
-            };
-
-            if (node.right !== null) {
-                queue.push(node.right);
-            };
+            levelTemp.push(node.val);
+            if (node.left !== null) queue.push(node.left);
+            if (node.right !== null) queue.push(node.right);
         }
 
-        result.push(level);
+        res.push(levelTemp)
     }
-
-    return result;
+    console.log(res)
+    return res;
 };
