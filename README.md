@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JangHwanPark/Leetcode/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/JangHwanPark/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/JangHwanPark/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0070-climbing-stairs) |
+| [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/JangHwanPark/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JangHwanPark/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/JangHwanPark/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/JangHwanPark/Leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
