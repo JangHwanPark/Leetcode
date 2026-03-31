@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/JangHwanPark/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JangHwanPark/Leetcode/tree/master/0067-add-binary) |
+| [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
