@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JangHwanPark/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JangHwanPark/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/JangHwanPark/Leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/JangHwanPark/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/JangHwanPark/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/JangHwanPark/Leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/JangHwanPark/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/JangHwanPark/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/JangHwanPark/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0518-coin-change-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JangHwanPark/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JangHwanPark/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/JangHwanPark/Leetcode/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/JangHwanPark/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/JangHwanPark/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JangHwanPark/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
