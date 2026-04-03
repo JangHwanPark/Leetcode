@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JangHwanPark/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/JangHwanPark/Leetcode/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/JangHwanPark/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/JangHwanPark/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JangHwanPark/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/JangHwanPark/Leetcode/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JangHwanPark/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/JangHwanPark/Leetcode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
