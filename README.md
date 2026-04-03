@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JangHwanPark/Leetcode/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
