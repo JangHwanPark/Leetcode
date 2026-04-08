@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/JangHwanPark/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/JangHwanPark/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/JangHwanPark/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/JangHwanPark/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/JangHwanPark/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JangHwanPark/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JangHwanPark/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JangHwanPark/Leetcode/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JangHwanPark/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/JangHwanPark/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JangHwanPark/Leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
