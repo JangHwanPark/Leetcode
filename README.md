@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JangHwanPark/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/JangHwanPark/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JangHwanPark/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/JangHwanPark/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0090-subsets-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JangHwanPark/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JangHwanPark/Leetcode/tree/master/0118-pascals-triangle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JangHwanPark/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JangHwanPark/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/JangHwanPark/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
