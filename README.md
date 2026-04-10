@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/JangHwanPark/Leetcode/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/JangHwanPark/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -242,15 +243,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JangHwanPark/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangHwanPark/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/JangHwanPark/Leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/JangHwanPark/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/JangHwanPark/Leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/JangHwanPark/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/JangHwanPark/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JangHwanPark/Leetcode/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/JangHwanPark/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
