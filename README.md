@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1668-maximum-repeating-substring](https://github.com/JangHwanPark/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JangHwanPark/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/JangHwanPark/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1668-maximum-repeating-substring](https://github.com/JangHwanPark/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/JangHwanPark/Leetcode/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/JangHwanPark/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
