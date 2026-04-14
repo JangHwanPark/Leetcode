@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/JangHwanPark/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JangHwanPark/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/JangHwanPark/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JangHwanPark/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/JangHwanPark/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
