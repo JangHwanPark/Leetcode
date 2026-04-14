@@ -11,14 +11,25 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-    if (!root) return 0;
+    // 주어진 트리의 최대 깊이를 구하는 문제
+    // 1.인자로 깊이를 같이 넘기면됨
+    // 2.깊이 카운트를 max로 관리
+    let level = 0;
 
-    function dfs(node) {
-        if (!node) return 0;
-        const left = dfs(node.left);
-        const right = dfs(node.right);
-        return Math.max(left, right) + 1;
+    // 트리 순회
+    function dfs(node, val) {
+        // 종료조건
+        if (!node) return val;
+
+        // 다음 레벨 탐색
+        const left = dfs(node.left, val + 1);
+        const right = dfs(node.right, val + 1);
+        level = Math.max(left, right);
+        return level;
     }
 
-    return dfs(root);
+    dfs(root, level);
+
+    // 레벨 반환
+    return level;
 };
