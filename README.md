@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JangHwanPark/Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/JangHwanPark/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/JangHwanPark/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1668-maximum-repeating-substring](https://github.com/JangHwanPark/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/JangHwanPark/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/JangHwanPark/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JangHwanPark/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/JangHwanPark/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JangHwanPark/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
