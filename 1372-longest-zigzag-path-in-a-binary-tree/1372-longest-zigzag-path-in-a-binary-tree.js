@@ -11,34 +11,36 @@
  * @return {number}
  */
 var longestZigZag = function(root) {
-    // 0부터 시작해서 지그재그로 탐색하여 개수 -1을 반환해야함
-    // 탐색 - 방향 전환을 어떻게 해야하는가?
-    // node.left 이후 node.right 호출해야함
-    // node.right 이후 node.left 호출해야함
-    // - 조건문으로 현재노드가 left라면 right 호출
-    //  - 현재 노드가 left라는걸 어케 파악하는가?
-    // 백트래킹해야하나..
-    // 전체 최대값 갱신
-    function dfs(node, dir, len) {
-        // 종료조건 - 마지막 노드라면 종료
+    function dfs(node, dict, len) {
+        // 종료
         if (!node) return;
+
+        // 길이 갱신
         max = Math.max(max, len);
 
-        // 방향 전환 - 지그재그 호출
-        if (dir === "L") {
-            // dir가 왼쪽이라면 오른쪽 노드 탐색
-            dfs(node.right, "R", len + 1);
-            dfs(node.left, "L", 1);
+        // 자식호출
+        if (dict === "left") {
+            // 현재 방향이 왼쪽이라면
+            // 같은방향노드 탐색
+            // 길이는 동일함 - 하위노드가 지그재그일수도 있기때문
+            dfs(node.left, 'left', 1);
+
+            // 반대 방향 노드 탐색
+            // 지그재그이므로 길이 증가
+            dfs(node.right, 'right', len + 1);
         } else {
-            // dir가 오른쪽이라면 왼쪽 노드 탐색
-            dfs(node.left, "L", len + 1);
-            dfs(node.right, "R", 1);
+            // 현재 방향이 오른쪽 이라면
+            // 같은 방향 노드
+            dfs(node.right, 'right', 1);
+
+            // 반대 방향 노드
+            // 지그재그이므로 길이 증가
+            dfs(node.left, 'left', len + 1);
         }
     }
 
     let max = 0;
-    if (!root) return 0;
-    dfs(root.right, "R", 1);
-    dfs(root.left, "L", 1);
+    dfs(root, 'left', 0);
+    dfs(root, 'right', 0);
     return max;
 };
