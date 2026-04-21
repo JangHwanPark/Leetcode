@@ -3,31 +3,29 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    // 1 = 2 * 3 * 4
-    // 2 = 1 * 3 * 4
-    // 3 = 1 * 2 * 4
-    // 4 = 1 * 2 * 3
-    // for (let i = 0; i < nums.length; i++) {
-    //     let sum = 1;
-    //     for (let j = 0; j <nums.length; j++) {
-    //         sum *= nums[j];
-    //         arr.push(sum);
-    //     }
-    // }
-    const arr = [];
+    // i = 0 -> 2 * 3 * 4
+    // i = 1 -> 1 * 3 * 4
+    // i = 2 -> 1 * 2 * 4
+    // i = 3 -> 1 * 2 * 3
+    const arr = Array(nums.length).fill(1);
     let left = 1;
+    console.log(nums)
+    // 2 * 1
+    // 1 2 3 4
+    // -> 1 2 2 2
+    // -> 2 2 2 2
+    // -> 
     for (let i = 0; i < nums.length; i++) {
-        arr.push(left);
-        left *= nums[i];
+        arr[i] *= left;
+        left *= nums[i]
     }
-    console.log(arr)
 
     let right = 1;
-    for (let i = nums.length - 1; 0 <= i; i--) {
+    for (let i = nums.length - 1; i >= 0; i--) {
         arr[i] *= right;
+        console.log(`right: ${right}`)
         right *= nums[i];
     }
 
-    console.log(arr)
     return arr;
 };
