@@ -11,25 +11,26 @@
  * @return {number[][]}
  */
 var levelOrder = function(root) {
-    if (!root) return [];
-
-    const queue = [root];
+    // 레벨순회니까 BFS사용
     const res = [];
-    console.log(queue);
+    const queue = [root] // 큐 초기화시 루트노드 삽입
 
-    while (queue.length > 0) {
-        const level = queue.length;
-        const levelTemp = [];
-        console.log(level)
-        for (let i = 0; i < level; i++) {
+    // null 체크
+    if (!root) return res;
+
+    while(queue.length) {
+        const size = queue.length;
+        const level = [];
+
+        for (let i = 0; i < size; i++) {
             const node = queue.shift();
-            levelTemp.push(node.val);
-            if (node.left !== null) queue.push(node.left);
-            if (node.right !== null) queue.push(node.right);
+            level.push(node.val);
+            if (node.left) queue.push(node.left);
+            if (node.right) queue.push(node.right);
         }
 
-        res.push(levelTemp)
+        res.push(level);
     }
-    console.log(res)
+
     return res;
 };
