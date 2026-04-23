@@ -3,51 +3,42 @@
  * @return {number}
  */
 var shortestPathBinaryMatrix = function(grid) {
-    let m = 0;
+    // 8방향 처리
     const dx = [-1,-1,-1,0,0,1,1,1];
     const dy = [-1,0,1,-1,1,-1,0,1];
-    const r = grid.length;
-    const c = grid[0].length;
 
-    if (grid[0][0] === 1 || grid[r-1][c-1] === 1) {
-        return -1;
-    }
+    // 방문 배열 설정
+    const n = grid.length;
+    const m = grid[0].length;
+    if (grid[0][0] === 1 || grid[n - 1][n - 1] === 1) return -1;
+    if (n === 1) return 1;
+    const visited = Array.from({length:n},() => Array(n).fill(false));
 
-    // 노드 큐에 넣고 상하좌우 계산
-    // 그러면 시작점이 0이어야함
-    const q = [[0, 0, 1]];
-    const v = Array.from({length: r}, () => Array(c).fill(false));
-    v[0][0] = true;
+    // 큐 설정 & 초기값 설정
+    const queue = [[0,0,1]];
+    visited[0][0] = true;
 
-    while (q.length > 0) {
-        const [x, y, d] = q.shift();
-        if (x === r - 1 && y===c-1) {
-            return d;
-        }
+    // 순회
+    while (queue.length) {
+        const [x, y, step] = queue.shift();
 
         for (let i = 0; i < 8; i++) {
-            const nx = x + dx[i];
-            const ny = y + dy[i];
+            const nx = dx[i] + x;
+            const ny = dy[i] + y;
 
-            // 범위 밖
-            if (nx < 0 || ny < 0 || nx >= r || ny >= c) {
-                continue;
-            }
+            if (nx < 0 || ny < 0 || nx >= n || ny >= n) continue;
+            if (visited[nx][ny] || grid[nx][ny] === 1) continue;
+            if (nx === n - 1 && ny === n - 1) return step + 1;
 
-            // 1이면
-            if (grid[nx][ny] === 1) {
-                continue;
-            }
-
-            // 방문했으면
-            if (v[nx][ny]) {
-                continue;
-            }
-
-            v[nx][ny] = true;
-            q.push([nx, ny, d + 1]);
+            queue.push([nx, ny, step + 1]);
+            visited[nx][ny] = true;
         }
     }
 
+    // 이동 경로가 없으면 -1 반
     return -1;
 };
+
+// 1 0 0
+// 1 1 0
+// 1 1 0
